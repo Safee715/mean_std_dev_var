@@ -29,4 +29,4 @@ def calculate(arry):
         'Maxium':[maximum0.tolist(),maximum1.tolist(),maximumflattend.tolist()],
         'Sum':[sumarray0.tolist(),sumarray1.tolist(),sumarrayflattend.tolist()]
     }
-    return calculations
+    return FINAL_DICTIONARY
